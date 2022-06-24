@@ -1,0 +1,15 @@
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/bin/Debug/net6.0/PermissionBl.deps.json
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/bin/Debug/net6.0/PermissionBl.dll
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/bin/Debug/net6.0/PermissionBl.pdb
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/bin/Debug/net6.0/PermissionModels.dll
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/bin/Debug/net6.0/PermissionModels.pdb
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.csproj.AssemblyReference.cache
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.AssemblyInfoInputs.cache
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.AssemblyInfo.cs
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.csproj.CoreCompileInputs.cache
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.csproj.CopyComplete
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.dll
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/refint/PermissionBl.dll
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/PermissionBl.pdb
+/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/obj/Debug/net6.0/ref/PermissionBl.dll

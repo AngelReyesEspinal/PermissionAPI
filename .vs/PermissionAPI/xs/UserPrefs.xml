@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{23603430-CCD9-4CD2-82B2-1673C3200641}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PermissionBl/Repositories/RepositoryBase.cs">
+    <Files>
+      <File FileName="PermissionBl/Repositories/RepositoryBase.cs" Line="46" Column="34" />
+      <File FileName="PermissionAPI/Program.cs" Line="15" Column="1" />
+      <File FileName="PermissionModels/IoC/ModelRegistry.cs" Line="16" Column="1" />
+      <File FileName="PermissionBl/IoC/ModelRegistry.cs" Line="10" Column="41" />
+      <File FileName="PermissionAPI/Controllers/PermissionController.cs" Line="8" Column="32" />
+      <File FileName="PermissionAPI/Controllers/PermissionTypeController.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PermissionAPI" expanded="True">
+            <Node name="PermissionAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="PermissionBl" expanded="True">
+              <Node name="IoC" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="RepositoryBase.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="PermissionModels" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="IoC" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PermissionAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

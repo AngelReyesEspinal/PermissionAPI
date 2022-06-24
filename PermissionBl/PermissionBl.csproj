@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AutoMapper" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="Validators\" />
+    <None Remove="Repositories\" />
+    <None Remove="IoC\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Validators\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="IoC\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PermissionModels\PermissionModels.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.1.0" />
+  </ItemGroup>
+</Project>
