@@ -1,16 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PermissionModels.Context;
-using Microsoft.Extensions.DependencyInjection;
 using FluentValidation.AspNetCore;
 using PermissionBl.Validators;
-using PermissionBl.Repositories;
-using PermissionModels.Entities;
+using PermissionModels.IoC;
 using PermissionBl.IoC;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers(options =>
 {
     options.EnableEndpointRouting = false;
@@ -27,10 +24,14 @@ builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
 }));
 
 // Ioc Register
-builder.Services.AddBlRegistry();
+builder.Services.AddModelRegistry();
+builder.Services.AddServicesRegistry();
 
 // Database Register
 builder.Services.AddDbContext<PermissionDbContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// AutoMapper Register
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 

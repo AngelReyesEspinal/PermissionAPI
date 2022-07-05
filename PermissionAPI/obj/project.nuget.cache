@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "cx9w2GvNxfzckWYV11GvPgjrTRmrgSZ4di+M/RjMxdzA2B5G1MDNuLoxervwuzt0VZL9Yn1/LhXJLYOVNatcbA==",
+  "dgSpecHash": "MX8nVaDEqKeNg/kodimTs7o0PUp36ZgW+TGU2GrpGEU2s2C7s3dV3rH3VPnplIYmq1KM4CIDRY4dtc0rSb9kjw==",
   "success": true,
   "projectFilePath": "/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionAPI/PermissionAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/angelreyes/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/angelreyes/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation.aspnetcore/11.1.0/fluentvalidation.aspnetcore.11.1.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.1.0/fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
-    "/Users/angelreyes/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/angelreyes/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",

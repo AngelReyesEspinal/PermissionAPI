@@ -15,11 +15,15 @@
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Entities\Base\" />
     <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="IoC\" />
+    <None Remove="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
     <Folder Include="Entities\" />
     <Folder Include="Entities\Base\" />
+    <Folder Include="IoC\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />

@@ -1,9 +1,8 @@
-﻿using System;
-using System.Linq.Expressions;
+﻿using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using PermissionModels.Context;
 
-namespace PermissionBl.Repositories
+namespace PermissionModels.Repositories
 {
     public interface IRepositoryBase<T>
     {

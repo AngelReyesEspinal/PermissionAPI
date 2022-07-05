@@ -2,7 +2,7 @@
 using PermissionModels.Context;
 using PermissionModels.Entities;
 
-namespace PermissionBl.Repositories
+namespace PermissionModels.Repositories
 {
     public class PermissionRepository : RepositoryBase<Permission>
     {

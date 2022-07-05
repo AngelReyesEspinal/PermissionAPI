@@ -1,15 +1,19 @@
 ﻿using System;
+using AutoMapper;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using PermissionBl.Repositories;
+using PermissionBl.Dtos;
+using PermissionBl.Services;
 using PermissionModels.Entities;
+using PermissionModels.Repositories;
 
 namespace PermissionAPI.Controllers
 {
-    public class PermissionController : BaseController<Permission>
+    [Route("api/[controller]")]
+    public class PermissionsController : BaseController<Permission, PermissionDto>
     {
-        public PermissionController(IRepositoryBase<Permission> baseRepository)
-            : base(baseRepository)
+        public PermissionsController(IPermissionService permissionService, IValidatorFactory validationFactory, IMapper mapper) : base(permissionService, validationFactory, mapper)
         {
         }
     }

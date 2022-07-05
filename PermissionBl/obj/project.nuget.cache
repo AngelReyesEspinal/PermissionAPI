@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2Wno2wKHnULy+WBuF3HR3BoPmXFwlC32oF5RCMHOsy3N8yVwnqTz8c8dVTQBNAJ6H0qIpE4qeUdNSFYic1YH3A==",
+  "dgSpecHash": "LwHTCuylryjZnbg0lNcFit3UI+aW/nog1F/aUcn5B8AYPz2ibhAsWXtyKxSy70ri1bGCZt2l63YKcjALfvYudA==",
   "success": true,
   "projectFilePath": "/Users/angelreyes/Documents/Khensys/prueba-tecnica/api/PermissionAPI/PermissionBl/PermissionBl.csproj",
   "expectedPackageFiles": [
+    "/Users/angelreyes/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/angelreyes/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation.aspnetcore/11.1.0/fluentvalidation.aspnetcore.11.1.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.1.0/fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
-    "/Users/angelreyes/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/angelreyes/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/angelreyes/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",

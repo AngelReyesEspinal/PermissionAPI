@@ -1,10 +1,10 @@
 ﻿using System;
 using FluentValidation;
-using PermissionModels.Entities;
+using PermissionBl.Dtos;
 
 namespace PermissionBl.Validators
 {
-    public class PermissionValidator : AbstractValidator<Permission>
+    public class PermissionValidator : AbstractValidator<PermissionDto>
     {
         public PermissionValidator()
         {
